@@ -5288,7 +5288,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel-footer {
   padding: 10px 15px;
-  background-color: #d5ded9;
+  background-color: #d9ceb2;
   border-top: 1px solid #dddddd;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
@@ -5489,14 +5489,14 @@ a.list-group-item-danger.active:focus {
 }
 .panel-default > .panel-heading {
   color: #7a6a53;
-  background-color: #d5ded9;
+  background-color: #d9ceb2;
   border-color: #dddddd;
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #dddddd;
 }
 .panel-default > .panel-heading .badge {
-  color: #d5ded9;
+  color: #d9ceb2;
   background-color: #7a6a53;
 }
 .panel-default > .panel-footer + .panel-collapse > .panel-body {
@@ -5622,8 +5622,8 @@ a.list-group-item-danger.active:focus {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: #d5ded9;
-  border: 1px solid #c1cec7;
+  background-color: #d9ceb2;
+  border: 1px solid #cdbf9a;
   border-radius: 4px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
